@@ -12,6 +12,9 @@ We use ```yarn``` as our package manager. So under no circumstance should ```npm
     yarn install 
 
 ```
+
+this is Davids first PR
+
 Each app is run by running yarn plus the name of your cohort, - the environment. So to run Ch3 web (React(NextJS)) just run 
 ```bash
     yarn ch3-web
